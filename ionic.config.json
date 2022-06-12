@@ -1,0 +1,7 @@
+{
+  "name": "temp_project2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
