@@ -57,7 +57,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         foodType: "Fast Food",
                         servings: "1",
@@ -91,7 +91,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1",
                         cookingTime: "30 min",
@@ -123,7 +123,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1", foodType: "Fast Food",
                         cookingTime: "30 min",
@@ -155,7 +155,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1",
                         cookingTime: "30 min", foodType: "Fast Food",
@@ -187,7 +187,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1",
                         cookingTime: "30 min", foodType: "Fast Food",
@@ -219,7 +219,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1",
                         cookingTime: "30 min", foodType: "Fast Food",
@@ -251,7 +251,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1",
                         cookingTime: "30 min", foodType: "Fast Food",
@@ -283,7 +283,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1", foodType: "Fast Food",
                         cookingTime: "30 min",
@@ -315,7 +315,7 @@ class FakeData {
                         description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s`,
                         ingredients: [
-                            "Flour", "Sugar", "Salt", "Butter", "Tomato", "Lettuce", "Onion", "Cheese", "Bun", "Patty"
+                            "Flour", "Sugar", "Baking powder", "Salt", "Butter", "Egg Buter", "Milk", "Vegetable oil", "Baking powder", "Butter",
                         ],
                         servings: "1", foodType: "Fast Food",
                         cookingTime: "30 min",

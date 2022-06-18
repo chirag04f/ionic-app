@@ -1,5 +1,5 @@
 export class ConstantColors {
-    static readonly cardColor = '#1F1F1F';
+    static readonly cardColor = '#1D1E25';
     static readonly secondary = '#FFC107';
     static readonly subtitleColor = '#76777A';
 }

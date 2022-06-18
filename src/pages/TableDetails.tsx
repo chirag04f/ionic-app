@@ -2,6 +2,7 @@ import { IonCol, IonContent, IonGrid, IonIcon, IonPage, IonRow } from '@ionic/re
 import React, { Component } from 'react'
 import AppHeader from '../components/AppHeader';
 import FoodItem from '../components/FoodItem';
+import MenuDrawer from '../components/MenuDrawer';
 import TableCard from '../components/TableCard';
 import FakeData from '../data/FakeData';
 import { FoodItemProps, FoodItemPropsData } from '../interfaces/CustomInterfaces';
@@ -17,7 +18,10 @@ class TableDetails extends Component<any, any> {
         console.log(this.props);
         return (
             <IonPage>
-                <AppHeader />
+                <div className='flex'>
+                    <AppHeader />
+                    <MenuDrawer />
+                </div>
                 <div className='flex'>
                     <div className="flex-none w-24 h-screen pt-4 bg-[#1F1F1F]">
                         {
